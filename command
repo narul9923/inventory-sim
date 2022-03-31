@@ -1,0 +1,1 @@
+php artisan infyom:api_scaffold $MODEL_NAME --fieldsFile=tables/.json --datatables=true
